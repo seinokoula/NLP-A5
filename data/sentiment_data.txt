@@ -1,0 +1,91 @@
+J'adore cette journée ensoleillée	1
+Ce film était absolument fantastique	1
+Je me sens heureux et optimiste	1
+Quelle belle surprise, j'ai réussi mon examen	1
+L'amour rend la vie merveilleuse	1
+Cette chanson me donne de l'énergie	1
+J'ai passé un moment formidable avec mes amis	1
+Ce restaurant sert une cuisine délicieuse	1
+Je suis fier de mes accomplissements	1
+La vie est pleine de belles opportunités	1
+Cette expérience était vraiment enrichissante	1
+J'ai trouvé la solution parfaite	1
+Quelle joie de retrouver ma famille	1
+Ce paysage est à couper le souffle	1
+Je me réveille chaque matin avec enthousiasme	1
+Cette nouvelle m'a rempli de bonheur	1
+Je suis reconnaissant pour tout ce que j'ai	1
+Cette activité m'a apporté beaucoup de plaisir	1
+Je suis impressionné par le talent de cet artiste	1
+Cette rencontre a été très inspirante	1
+Je suis ravi de commencer ce nouveau projet	1
+Cette journée a été pleine de rires	1
+Ce livre m'a captivé du début à la fin	1
+Je suis émerveillé par la beauté de la nature	1
+Cette musique me touche profondément	1
+Je suis enthousiaste à l'idée de voyager	1
+Cette découverte scientifique est fascinante	1
+Je suis heureux de voir mes progrès	1
+Cette conversation a été très enrichissante	1
+Je suis comblé par l'amour de mes proches	1
+Cette activité m'a apporté beaucoup de joie	1
+Je suis impressionné par la générosité des gens	1
+Cette journée a été pleine de surprises agréables	1
+Ce projet a été un grand succès	1
+Je suis reconnaissant pour les petites choses de la vie	1
+Cette expérience m'a ouvert les yeux	1
+Je suis fier de faire partie de cette équipe	1
+Cette initiative est vraiment louable	1
+Je suis heureux de contribuer à cette cause	1
+Cette rencontre a été très enrichissante	1
+Je suis ravi de voir les résultats de mon travail	1
+Cette journée a été pleine de moments mémorables	1
+Ce geste de gentillesse m'a touché	1
+Cette activité m'a apporté beaucoup de satisfaction	1
+Je suis impressionné par la créativité de cet artiste	1
+Cette nouvelle m'a rempli d'espoir	1
+Je suis reconnaissant pour le soutien de mes amis	1
+Cette expérience m'a beaucoup appris	1
+Je suis heureux de partager ces moments avec vous	1
+Cette journée a été pleine de découvertes intéressantes	1
+
+Je déteste cette situation frustrante	0
+Ce film était vraiment ennuyeux et décevant	0
+Je me sens triste et découragé	0
+Quelle catastrophe, j'ai échoué à mon test	0
+Cette journée a été terrible	0
+Je suis fatigué de tous ces problèmes	0
+Cette nourriture avait un goût horrible	0
+Je me sens seul et abandonné	0
+Cette expérience était vraiment désagréable	0
+Je suis inquiet pour l'avenir	0
+Cette situation me rend vraiment anxieux	0
+J'ai eu une journée particulièrement difficile	0
+Ce service client était lamentable	0
+Je suis déçu par ces résultats	0
+Cette attente interminable m'énerve	0
+Je suis frustré par ce manque de communication	0
+Cette nouvelle m'a vraiment bouleversé	0
+Je suis en colère contre cette injustice	0
+Cette erreur m'a coûté cher	0
+Je suis déçu par le manque de soutien	0
+Cette situation est vraiment stressante	0
+Je suis fatigué de ces mensonges	0
+Cette expérience m'a laissé un goût amer	0
+Je suis frustré par ce manque de progrès	0
+Cette journée a été pleine de désagréments	0
+Ce projet a été un échec retentissant	0
+Je suis déçu par la qualité de ce produit	0
+Cette rencontre a été très décevante	0
+Je suis triste de voir tant de souffrance	0
+Cette situation est vraiment désespérante	0
+Je suis en colère contre cette décision injuste	0
+Cette journée a été pleine de malchance	0
+Ce geste de méchanceté m'a blessé	0
+Cette activité m'a laissé un sentiment de vide	0
+Je suis déçu par le manque de respect	0
+Cette nouvelle m'a rempli de désespoir	0
+Je suis frustré par le manque de compréhension	0
+Cette expérience m'a beaucoup déçu	0
+Je suis triste de voir tant de conflits	0
+Cette journée a été pleine de moments difficiles	0
